@@ -1,3 +1,43 @@
+---
+language:
+- en
+- hi
+license: cc-by-4.0
+tags:
+- legal
+- indian-law
+- india-code
+- gazette-of-india
+- pdf
+- government-gazette
+- legal-corpus
+- statutes
+- bns
+- bnss
+- bsa
+- constitution-of-india
+- criminal-law
+- corporate-law
+- direct-tax
+- securities-law
+- telecom
+- labor-codes
+- intellectual-property
+- environmental-law
+- public-health
+- legal-nlp
+- document-ai
+- layout-analysis
+- ocr
+size_categories:
+- n<1K
+pretty_name: Indian Legal Knowledge Base (Official Source PDFs)
+task_categories:
+- text-retrieval
+- question-answering
+- document-question-answering
+---
+
 <div align="center">
 
 # 📜 Indian Legal Knowledge Base (v3.0)
